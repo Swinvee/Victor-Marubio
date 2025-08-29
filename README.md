@@ -20,7 +20,7 @@
 
 ## 📂 Projetos em Destaque
 - **[LiterAlura](https://github.com/seu-usuario/Literalura)** – Aplicação em Java que consome a API Gutendex para buscar livros, aplicar filtros e armazenar informações em banco de dados.  
-- (Adicione outros projetos acadêmicos ou pessoais aqui depois!)
+- **[ConversorDeMoedas](https://github.com/Swinvee/ConversorDeMoedas),** - Este projeto é um conversor de moedas desenvolvido em Java 17, que utiliza a API ExchangeRate para buscar cotações em tempo real entre diferentes moedas
 
 ---
 
@@ -32,8 +32,8 @@
 ---
 
 ## 🤝 Vamos nos conectar?
-- [LinkedIn](https://linkedin.com/in/seu-usuario)  
-- [E-mail](mailto:seuemail@email.com)  
+- [LinkedIn](https://www.linkedin.com/in/victor-marubio-895aab369)  
+- [E-mail](victoralemaoziinho2022@gmail.com)  
 
 ---
 
